@@ -1,0 +1,47 @@
+Interview Preparation   : sat 
+1.Oops concept:
+
+related questions on Experienced 
+
+2.Multithreading :
+
+3.Java Collection :
+ experienced Questions
+
+4.Exception Handling
+
+5.Java JDBC
+
+
+Spring :   Friday
+
+1. Spring  Module ,Application
+
+2. Spring Dependency injection
+
+3. Spring AOP
+
+4.Spring ORM
+
+5.Spring MVC
+
+
+
+
+Hibernate :
+
+prepare Hibernate    thursday
+
+
+
+
+Java Script :
+
+Prepare for interview Question asked    thursday
+
+
+
+
+SQL : 
+
+Prepare SQL  for Interview Questios.  wensday 
